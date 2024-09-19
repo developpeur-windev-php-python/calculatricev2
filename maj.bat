@@ -1,0 +1,10 @@
+echo. > src\pages\calculators\Sante\CalculatriceIMC.js
+echo. > src\pages\calculators\Sante\CalculatriceApportCalorique.js
+echo. > src\pages\calculators\Sante\CalculatricePourcentageGraisseCorporelle.js
+echo. > src\pages\calculators\Sante\CalculatriceTauxMetaboliqueBase.js
+echo. > src\pages\calculators\Sante\CalculatriceMacronutriments.js
+echo. > src\pages\calculators\Sante\CalculatriceAllureCourse.js
+echo. > src\pages\calculators\Sante\CalculatricePoidIdeal.js
+echo. > src\pages\calculators\Sante\CalculatriceApportEau.js
+echo. > src\pages\calculators\Sante\CalculatriceFrequenceCardiaque.js
+echo. > src\pages\calculators\Sante\CalculatriceAgeConditionPhysique.js
